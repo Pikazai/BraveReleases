@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.11</version>
-  <url>https://github.com/Pikazai/BraveReleases/releases/download/v2.0.0.11/Brave.Tool.V2.0.0.11.zip</url>
+  <version>2.0.0.12</version>
+  <url>https://github.com/Pikazai/BraveReleases/releases/download/v2.0.0.12/Brave.Tool.V2.0.0.12.zip</url>
   <changelog>https://github.com/Pikazai/BraveReleases/releases</changelog>
   <mandatory>false</mandatory>
 </item>
