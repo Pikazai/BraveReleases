@@ -1,4 +1,5 @@
 # BraveReleases
 Cập nhật các phiên bản
 
-https://brave-update.vercel.app/UpdateConfig.xml
+New: https://braveupdate.netlify.app
+Old: https://brave-update.vercel.app
