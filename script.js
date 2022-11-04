@@ -17,7 +17,7 @@ function getData() {
   excerpt.innerHTML =
     'Brave Tool sẽ thường xuyên được cập nhật dựa trên bản cập nhật của trình duyệt Brave.'
   profile_img.innerHTML =
-    '<img src="https://randomuser.me/api/portraits/men/45.jpg" alt="" />'
+    '<img src="https://xsgames.co/randomusers/avatar.php?g=female" alt="" />'
   name.innerHTML = 'Pikazai'
   date.innerHTML = 'Feb 23, 1990'
 
